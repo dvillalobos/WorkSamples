@@ -1,6 +1,6 @@
 ---
 title: "Program Data Analyst: Energy Management follow up"
-#subtitle: "DATA 624"
+#subtitle: "DATA"
 header-includes: # allows you to add in your own Latex packages
 - \usepackage{titling}
 - \pretitle{\begin{center}\LARGE\includegraphics[width=6in]{CUNYSPS-WorkHard.jpg}\\[\bigskipamount]}
@@ -8,7 +8,6 @@ header-includes: # allows you to add in your own Latex packages
 - \usepackage{float} #use the 'float' package
 - \floatplacement{figure}{H} #make every figure with caption = h
 author: "Duubar Villalobos Jimenez -- mydvtech@gmail.com"
-#author: "# CUNY School of Professional Studies  \n **Masters in Data Science**  \n *Duubar Villalobos Jimenez*  \n mydvtech@gmail.com"
 date: "May 27, 2019"
 output:
   prettydoc::html_pretty:
